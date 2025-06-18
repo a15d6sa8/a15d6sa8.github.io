@@ -1,4 +1,5 @@
-"linkbtn": [
+{
+    "linkbtn": [
     {
       "name": "Notes - Index",
       "url": "https://notes-online.surge.sh/notesindex.html"
@@ -32,4 +33,4 @@
       "url": "https://notes-online.surge.sh/search.html"
     }
   ]
-
+}
